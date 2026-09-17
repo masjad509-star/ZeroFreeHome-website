@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 ZeroFee Homes
 
 Book trusted home service professionals — cleaning, electrical, painting, carpentry, AC repair, and more — all from one simple platform built with Next.js.
@@ -89,3 +90,7 @@ Personal / educational project.
 ---
 
 Give it a ⭐ if you like what's here.
+=======
+# ZeroFreeHome-website
+ZeroFee Homes is a website made for booking different home services. It helps users find trusted workers for services like cleaning, electrical work, painting, carpentry, and AC repair. Users can search for a service, select their location, check prices and reviews, and book a service online.
+>>>>>>> 4189d5955d71538196968bcd771da60f08dfa6d2
