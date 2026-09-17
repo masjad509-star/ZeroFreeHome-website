@@ -80,7 +80,7 @@ This started as a way to practice building a full, realistic product with Next.j
 
 ## 🙋 About Me
 
-**Muhammad Sami** — BS Computer Science student, into frontend dev, the MERN stack, freelancing, and design.
+**Muhammad Asjad** — BS Information Security student, into frontend dev, App development Flutter, freelancing, and design.
 
 ## 📄 License
 
