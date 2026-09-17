@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏠 ZeroFee Homes
 
-## Getting Started
+Book trusted home service professionals — cleaning, electrical, painting, carpentry, AC repair, and more — all from one simple platform built with Next.js.
 
-First, run the development server:
+## 🔎 What It Does
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+ZeroFee Homes lets users browse verified service providers, compare ratings, and get help around the house without the usual hassle of finding someone reliable. Search, compare, and book — that's the whole flow.
+
+## ✨ Highlights
+
+| Feature | Description |
+|---|---|
+| 🏡 Landing page | Fast, clean intro to the platform |
+| 🔍 Smart search | Find a service in seconds |
+| 🧰 Service catalog | Browse categories at a glance |
+| ⭐ Reviews | Real feedback from past customers |
+| 📱 Responsive | Works on phone, tablet, and desktop |
+| 🧱 Component-based | Built from modular, reusable UI pieces |
+
+## 🧑‍💻 Built With
+
+- Next.js (App Router)
+- React
+- Tailwind CSS
+- Lucide icons
+- TypeScript / JavaScript
+
+## 📁 Layout
+
+```text
+zerofee-homes/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+├── components/
+│   ├── Navbar.tsx
+│   ├── Hero.tsx
+│   ├── Services.tsx
+│   ├── Reviews.tsx
+│   └── Footer.tsx
+├── public/
+├── package.json
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Running Locally
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+git clone YOUR_REPOSITORY_URL
+cd zerofee-homes
+npm install
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Then open `http://localhost:3000`.
 
-## Learn More
+## 🧭 Page Walkthrough
 
-To learn more about Next.js, take a look at the following resources:
+- **Navbar** — jump between Services, About, and Reviews
+- **Hero** — the first thing visitors see, with a search bar front and center
+- **Services** — a scannable grid of what's on offer
+- **Reviews** — social proof from real users
+- **Footer** — links and site details
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛣️ What's Next
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Planned additions as the project grows:
 
-## Deploy on Vercel
+- Account sign-up / login
+- Real booking + scheduling
+- Payments
+- Location-aware search results
+- A dashboard for service providers
+- Live chat support
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Why This Project Exists
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This started as a way to practice building a full, realistic product with Next.js — real layout decisions, reusable components, and a UI meant to actually be used, not just a demo.
+
+## 🙋 About Me
+
+**Muhammad Sami** — BS Computer Science student, into frontend dev, the MERN stack, freelancing, and design.
+
+## 📄 License
+
+Personal / educational project.
+
+---
+
+Give it a ⭐ if you like what's here.
